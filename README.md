@@ -1,1 +1,1 @@
-# CurrenceExchangeBot
+# CurrencyExchangeBot
