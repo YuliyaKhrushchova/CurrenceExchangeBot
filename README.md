@@ -16,9 +16,14 @@ cd CurrencyExchangeBot
 pip install -r requirements.txt
 ```
 
-Добавьте токен вручную в файл config.py:
+Добавьте токен, полученный при создании бота, вручную в файл config.py:
 ```
 BOT_TOKEN=ваш_токен
+```
+
+Запустите app.py:
+```bash
+python3 app.py
 ```
 
 ## Использование
