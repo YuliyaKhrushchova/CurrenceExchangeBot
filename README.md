@@ -1,6 +1,6 @@
 # CurrencyExchangeBot
 
-Простой Telegram-бот (@lrnn_bot), который позволяет конвертировать валюту с использованием API CoinDesk(https://developers.coindesk.com/documentation/legacy/Price/SingleSymbolPriceEndpoint).
+Простой Telegram-бот (@loweqa_bot), который позволяет конвертировать валюту с использованием API CoinDesk(https://developers.coindesk.com/documentation/legacy/Price/SingleSymbolPriceEndpoint).
 
 # Создание Telegram-бота
 
@@ -12,10 +12,7 @@
 ## Установка
 ```bash
 git clone https://github.com/YuliyaKhrushchova/CurrencyExchangeBot.git
-cd currency_exchange_bot
-python -m venv venv       # создаёт окружение
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate      # Windows
+cd CurrencyExchangeBot
 pip install -r requirements.txt
 ```
 
