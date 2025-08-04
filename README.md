@@ -13,6 +13,9 @@
 ```bash
 git clone https://github.com/YuliyaKhrushchova/CurrencyExchangeBot.git
 cd currency_exchange_bot
+python -m venv venv       # создаёт окружение
+source venv/bin/activate  # Linux/macOS
+venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 ```
 
