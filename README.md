@@ -1,6 +1,6 @@
 # CurrencyExchangeBot
 
-Простой Telegram-бот (@loweqa_bot), который позволяет конвертировать валюту с использованием API CoinDesk(https://developers.coindesk.com/documentation/legacy/Price/SingleSymbolPriceEndpoint).
+Простой Telegram-бот (@QALCurrencyExchangeBot), который позволяет конвертировать валюту с использованием API CoinDesk(https://developers.coindesk.com/documentation/legacy/Price/SingleSymbolPriceEndpoint).
 
 # Создание Telegram-бота
 
